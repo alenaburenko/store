@@ -4,7 +4,7 @@
             "id": 1, 
             "title": "Сукня",
             "price": 900,
-            "imgSrc": "./img/green-dress.png",
+            "imgSrc": "https://alenaburenko.github.io/img/green-dress.png",
             "artNum": 48,
             "color": "" 
         },
@@ -13,7 +13,7 @@
             "id": 2, 
             "title": "Брюки",
             "price": 900,
-            "imgSrc": "./img/trouser.png",
+            "imgSrc": "https://alenaburenko.github.io/img/trouser.png",
             "artNum": 48,
             "color": "#000" 
         },
@@ -21,7 +21,7 @@
             "id": 3, 
             "title": "Топ",
             "price": 900,
-            "imgSrc": "./img/top.png",
+            "imgSrc": "https://alenaburenko.github.io/img/top.png",
             "artNum": 48,
             "color": "" 
         },
@@ -29,7 +29,7 @@
             "id": 4, 
             "title": "Футболка",
             "price": 900,
-            "imgSrc": "./img/t-shirt.png",
+            "imgSrc": "https://alenaburenko.github.io/img/t-shirt.png",
             "artNum": 48,
             "color": "" 
         },
@@ -37,7 +37,7 @@
             "id": 5, 
             "title": "Сукня",
             "price": 900,
-            "imgSrc": "./img/green-dress.png",
+            "imgSrc": "https://alenaburenko.github.io/img/green-dress.png",
             "artNum": 48,
             "color": "" 
         },
@@ -46,7 +46,7 @@
             "id": 6, 
             "title": "Брюки",
             "price": 900,
-            "imgSrc": "./img/trouser.png",
+            "imgSrc": "https://alenaburenko.github.io/img/trouser.png",
             "artNum": 48,
             "color": "" 
         },
@@ -54,7 +54,7 @@
             "id": 7, 
             "title": "Топ",
             "price": 900,
-            "imgSrc": "./img/top.png",
+            "imgSrc": "https://alenaburenko.github.io/img/top.png",
             "artNum": 48,
             "color": "" 
         },
@@ -62,14 +62,14 @@
             "id": 8, 
             "title": "Футболка",
             "price": 900,
-            "imgSrc": "./img/t-shirt.png",
+            "imgSrc": "https://alenaburenko.github.io/img/t-shirt.png",
             "artNum": 48,
             "color": "" 
         }, { 
             "id": 9, 
             "title": "Сукня",
             "price": 900,
-            "imgSrc": "./img/green-dress.png",
+            "imgSrc": "https://alenaburenko.github.io/img/green-dress.png",
             "artNum": 48,
             "color": "" 
         },
@@ -78,7 +78,7 @@
             "id": 10, 
             "title": "Брюки",
             "price": 900,
-            "imgSrc": "./img/trouser.png",
+            "imgSrc": "https://alenaburenko.github.io/img/trouser.png",
             "artNum": 48,
             "color": "" 
         },
@@ -86,7 +86,7 @@
             "id": 11, 
             "title": "Топ",
             "price": 900,
-            "imgSrc": "./img/top.png",
+            "imgSrc": "https://alenaburenko.github.io/img/top.png",
             "artNum": 48,
             "color": "" 
         },
@@ -94,7 +94,7 @@
             "id": 12, 
             "title": "Футболка",
             "price": 900,
-            "imgSrc": "./img/t-shirt.png",
+            "imgSrc": "https://alenaburenko.github.io/img/t-shirt.png",
             "artNum": 48,
             "color": "" 
         }
