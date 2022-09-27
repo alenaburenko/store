@@ -9,7 +9,7 @@ export default function SideBar() {
           style={({ isActive }) =>
             isActive ? { fontWeight: "bold" } : undefined
           }
-          to="/"
+          to="/store"
         >
           Переглянути все
         </NavLink>
