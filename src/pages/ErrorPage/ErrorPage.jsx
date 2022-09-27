@@ -5,7 +5,7 @@ const ErrorPage = () => {
         <>
         <div>
              <h1>Page not found</h1>
-            <Link style = {{fontSize:"25px"}} to="/">Go to homepage</Link>
+            <Link style = {{fontSize:"25px"}} to="/store">Go to homepage</Link>
         </div>
            
         </>
